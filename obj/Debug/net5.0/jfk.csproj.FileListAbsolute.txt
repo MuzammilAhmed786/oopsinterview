@@ -1,0 +1,16 @@
+C:\Users\muzahm\Documents\jfk\bin\Debug\net5.0\jfk.exe
+C:\Users\muzahm\Documents\jfk\bin\Debug\net5.0\jfk.deps.json
+C:\Users\muzahm\Documents\jfk\bin\Debug\net5.0\jfk.runtimeconfig.json
+C:\Users\muzahm\Documents\jfk\bin\Debug\net5.0\jfk.runtimeconfig.dev.json
+C:\Users\muzahm\Documents\jfk\bin\Debug\net5.0\jfk.dll
+C:\Users\muzahm\Documents\jfk\bin\Debug\net5.0\ref\jfk.dll
+C:\Users\muzahm\Documents\jfk\bin\Debug\net5.0\jfk.pdb
+C:\Users\muzahm\Documents\jfk\obj\Debug\net5.0\jfk.csprojAssemblyReference.cache
+C:\Users\muzahm\Documents\jfk\obj\Debug\net5.0\jfk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muzahm\Documents\jfk\obj\Debug\net5.0\jfk.AssemblyInfoInputs.cache
+C:\Users\muzahm\Documents\jfk\obj\Debug\net5.0\jfk.AssemblyInfo.cs
+C:\Users\muzahm\Documents\jfk\obj\Debug\net5.0\jfk.csproj.CoreCompileInputs.cache
+C:\Users\muzahm\Documents\jfk\obj\Debug\net5.0\jfk.dll
+C:\Users\muzahm\Documents\jfk\obj\Debug\net5.0\ref\jfk.dll
+C:\Users\muzahm\Documents\jfk\obj\Debug\net5.0\jfk.pdb
+C:\Users\muzahm\Documents\jfk\obj\Debug\net5.0\jfk.genruntimeconfig.cache
