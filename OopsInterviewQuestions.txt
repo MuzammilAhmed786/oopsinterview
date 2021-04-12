@@ -1,0 +1,60 @@
+1. what is the default access modifier for a method
+private
+
+2. what is the usage of a private method
+
+3. can you call a static method with an instance
+no, it gives compile error. you should call it with type
+
+4. Can static methods access non static properties
+No
+
+5. what will be the output after first printone() and second printone()
+
+using System;
+
+namespace jfk
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            first f = new first();
+            Console.WriteLine(first.hellothere(2));
+            first.printone();
+
+            first ff = new first();
+            first.printone();
+        }
+    }
+
+    class first 
+    {
+        public static int one = 1;
+        public static string hellothere(int p)
+        {
+            one = p;
+            
+            return "Hello there" + p;
+        }
+
+        public static void printone()
+        {
+            Console.WriteLine(one);
+        }
+    }
+}
+
+Both will have the same value
+
+6. how many instances of a static class can you create 
+you cannot create instance of a staic class
+
+
+7. can you declare a readonly variable in a static class
+no, because the value for a readonly variable needs to be set in a constructor and a static class cannot have a constructor
+
+8. Difference between readonly and const
+a value needs to be assigned to const when you create it
+
+9.
