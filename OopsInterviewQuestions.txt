@@ -57,4 +57,5 @@ no, because the value for a readonly variable needs to be set in a constructor a
 8. Difference between readonly and const
 a value needs to be assigned to const when you create it
 
-9.
+9.Best way to implement a singleton is
+Make it thread safe by locking the object creation
